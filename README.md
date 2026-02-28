@@ -1,3 +1,4 @@
+
 ```markdown
 # 🚗 Smart Parking Lot Backend System
 
@@ -91,6 +92,14 @@ if duration_minutes <= grace_period:
 * REST API endpoints
 * Real-time spot availability updates
 * PostgreSQL database integration
+
+---
+
+## 🖼 System Diagram
+
+Step-by-step diagram showing classes, entities, exceptions, and overall system flow:
+
+![Parking Lot System Diagram](parking_lot_system.png)
 
 ---
 
